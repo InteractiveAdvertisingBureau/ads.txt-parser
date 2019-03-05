@@ -28,8 +28,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/cmlight/adstxtparse/appstoreparse"
-	"github.com/cmlight/adstxtparse/urlcanonical"
+	"github.com/InteractiveAdvertisingBureau/ads.txt-parser/appstoreparse"
+	"github.com/InteractiveAdvertisingBureau/ads.txt-parser/urlcanonical"
 )
 
 const metadataFormat = `Parsed metadata:
