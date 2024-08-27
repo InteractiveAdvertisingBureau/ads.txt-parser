@@ -25,7 +25,7 @@ import (
 	"net/url"
 	"strings"
 
-	"golang.org/x/net/publicsuffix"
+	"github.com/weppos/publicsuffix-go/net/publicsuffix"
 )
 
 // TranslateDeveloperURLToAppAdsTxtPaths returns a pair of strings indicating
